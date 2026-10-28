@@ -5,7 +5,7 @@ Week 1 Project Module 1 — VirtualBox and Kali Linux lab setup for the NetworkW
 **Internship:** NetworkWalks Cybersecurity Internship 2026  
 **Project:** WK1-PM1 — Lab Setup  
 **Domain:** Cybersecurity & Ethical Hacking  
-**Author:** Ifrah Mohamed Muhumed
+**Author:** Afrah Mohamed Muhumed
 
 ## Project Overview
 
