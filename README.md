@@ -40,8 +40,6 @@ The lab configuration was checked against the project requirements. Screenshots 
 
 ## Screenshots
 
-Add your own screenshots below as you upload them to the repository.
-
 1. VirtualBox NAT Network configuration
    
    <img width="1920" height="1080" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/d714c723-6349-4fba-96ca-b8861500eee8" />
